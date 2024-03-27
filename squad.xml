@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<squad nick="UNKOWN">
+    <name>Da Unkown Crew</name>
+    <email>N/A</email>
+    <web>https://discord.gg/hdZGrA6hMT</web>
+    <picture>cdddae5e11a4a8ff3949a78eaf9ec46e.paa</picture>
+    <title>Da Unkown Crew</title>
+    <member id="1" nick="Jarvis">
+        <name>Jarvis</name>
+        <email>N/A</email>
+        <icq>N/A</icq>
+        <remark>Founder</remark>
+    </member>
+</squad>
